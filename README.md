@@ -1,6 +1,7 @@
 # Kryptopose
 Android App built with Kotlin, Jetpack Compose, Clean Architecture and more that shows live crypto coins information. 
 
+-Preview in Light Theme (works in Dark Theme as well)
 <table>
 <tr>
   <th>-Screenshot [CoinListScreen]</th>
